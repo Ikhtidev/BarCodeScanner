@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BarCodeScanner</string>
+
+    <string name="turn_flash_on_off">Chiroqni Yoqish/O\'chirish</string>
+    <string name="scanning_with">bilan Scanerlanyapti</string>
+    <string name="scanner_library">Scanner kutubxonasi</string>
+    <string name="result">Natija</string>
+    <string name="copy">Nusxalash</string>
+    <string name="scan_with_ml_kit">ML Kit bilan Scanerlash</string>
+    <string name="scan_with_zxing">ZXing bilan Scanerlash</string>
+    <string name="developed_by_ikhtiyor">Ikhtiyor tomonidan yaratilgan</string>
+</resources>
